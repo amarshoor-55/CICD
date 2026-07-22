@@ -11,5 +11,7 @@ add file: git add
 add all: 'git add --all' or 'get add .'
 remove file: git rm --cached '<FileName>'
 commit: git commit -m "<desc>"
+add the remote: git remote add origin <URLRepositoryPath>
+push the commited file to origin: git push -u origin
 
 
